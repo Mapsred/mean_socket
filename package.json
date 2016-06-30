@@ -1,0 +1,22 @@
+{
+  "name": "node_socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mapsred/mean_socket.git"
+  },
+  "author": "Mapsred",
+  "license": "MIT",
+  "homepage": "https://github.com/Mapsred/mean_socket#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "node-horseman": "^3.0.1",
+    "phantomjs": "^2.1.7",
+    "socket.io": "^1.4.6"
+  }
+}

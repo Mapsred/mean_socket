@@ -1,0 +1,20 @@
+{
+  "name": "client",
+  "homepage": "https://github.com/Maps_red/mean_socket",
+  "authors": [
+    "maps_red <maps_red@yahoo.fr>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angular-socket-io": "^0.7.0",
+    "socket.io-client": "^1.4.8"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}

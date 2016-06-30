@@ -1,0 +1,28 @@
+body {
+    background-color: grey;
+}
+
+.container {
+    margin-top: 25px;
+}
+
+canvas {
+    margin: 30px auto;
+}
+
+.btn {
+    margin-bottom: 10px;
+    margin-left: 45%;
+}
+
+.progress {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    margin: 0;
+}
+
+.main {
+    margin-top: 15px;
+}
